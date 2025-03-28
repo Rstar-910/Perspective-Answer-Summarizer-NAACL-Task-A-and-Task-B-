@@ -1,5 +1,3 @@
-# Perspective-Answer-Summarizer-NAACL-Task-A-and-Task-B-
-
 # Perspective Answer Summarizer (NAACL Task A & B)
 
 A web-based AI-powered tool for perspective-aware answer summarization, built for the **NAACL 2025 PerAnsSumm shared task**. It extracts and summarizes perspective-specific spans from health-related answers.
