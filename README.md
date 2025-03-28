@@ -19,7 +19,7 @@ A web-based AI-powered tool for perspective-aware answer summarization, built fo
 | **Backend**         | Flask, FastAPI                                        |
 | **AI/ML Models**    | mDeBERTa-v3-base (SQuAD2), Flan-T5-Small              |
 | **Data Processing** | Python, Hugging Face Datasets, Pandas, NumPy         |
-| **Deployment**      | Docker, GitHub, Google Colab (for training)          |
+
 
 ## 📜 Installation & Setup
 
