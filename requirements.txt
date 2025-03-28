@@ -1,0 +1,8 @@
+flask
+flask-cors
+torch
+transformers
+datasets
+sentencepiece
+tqdm
+accelerate
